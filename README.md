@@ -1,4 +1,4 @@
-Hello world! I'm a man fresh from the programming world! 👋
+Hello world! I'm a fresh man from the programming world! 👋
 
 <!--
 **leejongmai/leejongmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
